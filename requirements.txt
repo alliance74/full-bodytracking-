@@ -1,0 +1,4 @@
+opencv-python==4.11.0.86
+numpy==1.26.4
+onnxruntime==1.23.2
+scipy==1.17.1

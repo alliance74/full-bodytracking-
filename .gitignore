@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.onnx
+models/*.part
+data/db/*
+data/enroll/*
+data/debug_aligned/
+outputs/
+data/backups/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
